@@ -1,0 +1,17 @@
+pytest
+pytest-cov
+pytest-mock
+hypothesis
+ruff
+black
+isort
+mypy
+pre-commit
+ipython
+ipykernel
+jupyterlab
+rich
+typer
+click
+tqdm
+loguru

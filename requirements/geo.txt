@@ -1,0 +1,11 @@
+geopandas
+shapely
+pyogrio
+rasterio
+fiona
+pyproj
+xarray
+rioxarray
+netcdf4
+h5netcdf
+mapclassify

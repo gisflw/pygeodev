@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+pyarrow
+openpyxl
+sqlalchemy
+python-dotenv
+pyyaml
+tomli
