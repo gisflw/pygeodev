@@ -35,8 +35,8 @@ docker run --rm -it \
 ## Build Locally
 
 ```bash
-docker build -t geodev:py312 .
-docker run --rm -it -v "$PWD:/workspace" geodev:py312
+docker build -t pygeodev:py312 .
+docker run --rm -it -v "$PWD:/workspace" pygeodev:py312
 ```
 
 ## Devcontainer Example
